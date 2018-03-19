@@ -1,0 +1,6 @@
+E:\C#\Стэк\25.11.17_Generics_Collections\25.11.17_Generics_Collections\bin\Debug\25.11.17_Generics_Collections.exe.config
+E:\C#\Стэк\25.11.17_Generics_Collections\25.11.17_Generics_Collections\bin\Debug\25.11.17_Generics_Collections.exe
+E:\C#\Стэк\25.11.17_Generics_Collections\25.11.17_Generics_Collections\bin\Debug\25.11.17_Generics_Collections.pdb
+E:\C#\Стэк\25.11.17_Generics_Collections\25.11.17_Generics_Collections\obj\Debug\25.11.17_Generics_Collections.csproj.CoreCompileInputs.cache
+E:\C#\Стэк\25.11.17_Generics_Collections\25.11.17_Generics_Collections\obj\Debug\25.11.17_Generics_Collections.exe
+E:\C#\Стэк\25.11.17_Generics_Collections\25.11.17_Generics_Collections\obj\Debug\25.11.17_Generics_Collections.pdb
